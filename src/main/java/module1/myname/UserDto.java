@@ -1,4 +1,4 @@
-package com.myname;
+package module1.myname;
 
 public class UserDto {
 

@@ -1,4 +1,4 @@
-package com.myname;
+package module1.myname;
 
 import lombok.extern.slf4j.Slf4j;
 
