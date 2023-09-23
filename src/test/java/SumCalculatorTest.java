@@ -48,5 +48,6 @@ class SumCalculatorTest {
     }
 
     //test commit changes
+    //second test
 
 }
