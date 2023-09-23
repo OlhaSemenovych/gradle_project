@@ -38,4 +38,4 @@ jobs:
             java-version: '15'
             distribution: 'corretto'
         - name: Run the Unit tests
-          run: gradle test
+          run: ./gradlew test
